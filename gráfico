@@ -1,0 +1,16 @@
+gantt
+    title Cronograma Visual de Cirurgias Urológicas - 02/12/2025
+    dateFormat HH:mm
+    axisFormat %H:%M
+    todayMarker off
+
+    section Bloco HD (Hospital Dia)
+    Dr. Ezequiel - 03 HD : esterilizacao1, 2025-12-02T12:30, 1h
+    Dr. João - 02 HD : duploJ, 2025-12-02T13:00, 1h
+    Dr. José - 02 HD : esterilizacao2, 2025-12-02T13:30, 1h
+    Dr. Ezequiel - 03 HD : varicocele, 2025-12-02T13:30, 1h
+    Dr. João - 02 HD : orquiopedia, 2025-12-02T14:30, 2h
+
+    section Bloco CC (Centro Cirúrgico 5º andar)
+    Dr. Ezequiel - CC 01 : prostatectomia, 2025-12-02T13:30, 2h
+    Dr. Ezequiel - CC 02 : uretroplastia, 2025-12-02T17:30, 2h
